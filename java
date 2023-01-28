@@ -1,0 +1,5 @@
+oops
+abstraction
+inheritance
+polymorphism
+encapsulation
